@@ -1,32 +1,32 @@
 export const projects = [
 	{
-		img: './projects/greenify-mockup.png',
-		name: 'Greenify',
-		description: 'Greenify é uma landing page de uma empresa fictícia que combina uma interface dinâmica e responsiva, impulsionada pelo React e fortalecida pelo TypeScript para garantir um código robusto. A estilização elegante e suas animações sutis são alcançadas através do TailwindCSS, proporcionando uma experiência visual moderna.',
-		technologies: ['React', 'TypeScript', 'TailwindCSS'],
+		img: './projects/food-jp-mockup.png',
+		name: 'Food JP',
+		description: 'Food JP é uma simples landing page para um restaurante japonês, oferecendo ótimos sabores. O projeto veio da Codêlandia, por Iuri Silva.',
+		technologies: ['HTML', 'CSS'],
 		link: {
-			demo: 'https://greenify-delta.vercel.app/',
-			repository: 'https://github.com/paulobarone/greenify'
+			demo: '',
+			repository: ''
 		}
 	},
 	{
-		img: './projects/home-you-mockup.png',
-		name: 'Home You',
-		description: 'Desenvolvi o Home You, uma landing page para uma empresa fictícia de venda de imóveis criada com React, TypeScript e Styled Components. Inspirada na elegância do design de IuriCode, a página oferece uma experiência acolhedora e minimalista.',
-		technologies: ['React', 'TypeScript', 'Styled Components'],
+		img: './projects/alura-comics-mockup.png',
+		name: 'Alura Comics',
+		description: 'A AluraComics foi inicialmente pensada em ser uma livraria (AluraBooks), com uma mera alusão à Casa do Código, e, depois, se transformou em algo parecido como uma loja de quadrinhos. Além disso, existem planos para a AluraComics ser algo maior no futuro!',
+		technologies: ['HTML', 'CSS', 'JavaScript'],
 		link: {
-			demo: 'https://home-you-rho.vercel.app/',
-			repository: 'https://github.com/paulobarone/home-you'
+			demo: 'https://darrow12.github.io/AluraComics/src/pages',
+			repository: 'https://github.com/darrow12/AluraComics'
 		}
 	},
 	{
-		img: './projects/age-calculator-mockup.png',
-		name: 'Calculadora de Idade',
-		description: 'Desenvolvi uma calculadora de idade com React e estilização em TailwindCSS. Integrei animações suaves usando React Spring, elevando a experiência do usuário. Esse projeto atende a um desafio proposto por um site e foi apresentado em uma culminância escolar, destacando minha habilidade em tecnologias modernas para interfaces interativas e visualmente cativantes.',
-		technologies: ['React', 'TailwindCSS', 'React Spring'],
+		img: './projects/la-queijada-mockup.png',
+		name: 'La Queijada',
+		description: 'La Queijada é uma simples landing page para uma pizzaria, oferecendo os sabores das pizzas mais vendidas e um rápido sobre de como funciona o local. O projeto veio da Codêlandia, por Iuri Silva.',
+		technologies: ['HTML', 'CSS'],
 		link: {
-			demo: 'https://age-calculator-psi-nine.vercel.app/',
-			repository: 'https://github.com/paulobarone/age-calculator'
+			demo: 'https://darrow12.github.io/La-Queijada/src/pages/',
+			repository: 'https://github.com/darrow12/La-Queijada'
 		}
 	}
 ]

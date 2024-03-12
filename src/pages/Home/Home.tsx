@@ -59,7 +59,7 @@ export default function Home() {
 							<ShowcaseName>Kim Freitas</ShowcaseName>
 						</Reveal>
 						<Reveal>
-							<Description>Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque corporis ipsa enim sunt adipisci distinctio deserunt error repellat voluptatem totam?</Description>
+							<Description>Apaixonado por tecnologia e estudar coisas novas. Bora criar algo novo juntos?</Description>
 						</Reveal>
 						<Reveal>
 							<ButtonContainer>

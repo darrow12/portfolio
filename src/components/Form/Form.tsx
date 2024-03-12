@@ -46,9 +46,9 @@ export default function Form() {
   const sendMessage = (data: DataObject) => {
     setIsSubmitting(true)
 
-    const serviceId = 'service_8idia5t'
-    const templateId = 'template_r5e0y6c'
-    const publicKey = '-AhuH2HojYLBVxZ-N'
+    const serviceId = 'service_krca5js'
+    const templateId = 'template_szleugj'
+    const publicKey = 'BaxZbPWBmBu7LgHZF'
 
     const templateParams = {
       name: data.name,
@@ -61,7 +61,7 @@ export default function Form() {
         setAlert({type: 'success', message: 'E-mail enviado com sucesso!', active: true})
       })
       .catch(error => {
-        console.error('Erro ao enviar o e-mail:', error)
+        console.error(error)
         setAlert({type: 'error', message: 'Erro ao enviar o e-mail. Tente novamente mais tarde.', active: true})
       })
       .finally(() => {
