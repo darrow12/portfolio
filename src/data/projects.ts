@@ -5,8 +5,8 @@ export const projects = [
 		description: 'Food JP é uma simples landing page para um restaurante japonês, oferecendo ótimos sabores. O projeto veio da Codêlandia, por Iuri Silva.',
 		technologies: ['HTML', 'CSS'],
 		link: {
-			demo: '',
-			repository: ''
+			demo: 'https://darrow12.github.io/food-jp/src/pages/',
+			repository: 'https://github.com/darrow12/food-jp'
 		}
 	},
 	{
